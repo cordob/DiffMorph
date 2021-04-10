@@ -20,7 +20,7 @@ Install proper dependencies:
 pip install -r requirements.txt
 ```
 
-## 이미지 512, 1024 등 정사각형으로 크롭.
+## 이미지 일괄 싸이즈 변환하고 
 
 Use the program:
 
