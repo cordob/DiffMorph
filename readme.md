@@ -25,7 +25,17 @@ pip install -r requirements.txt
 Use the program:
 
 ```bash
+
+parallel convert {} -resize 1920x1920 {.}.png ::: *.* 
+
+512p 
+
 morph.py -s images/img_1.jpg -t images/img_2.jpg
+
+1024 pixels 
+
+python morph2.py -s images/am1.png -t images/am3.png
+
 ```
 -s Source file  
 -t Target file  
