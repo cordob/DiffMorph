@@ -20,6 +20,8 @@ Install proper dependencies:
 pip install -r requirements.txt
 ```
 
+## 이미지 512, 1024 등 정사각형으로 크롭.
+
 Use the program:
 
 ```bash
