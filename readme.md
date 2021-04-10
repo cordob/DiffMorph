@@ -36,6 +36,12 @@ morph.py -s images/img_1.jpg -t images/img_2.jpg
 
 python morph2.py -s images/am1.png -t images/am3.png
 
+
+1200p  :  over  11g gpu
+
+python morph3.py -s images/p1.png -t images/p2.png
+
+
 ```
 -s Source file  
 -t Target file  
