@@ -30,7 +30,7 @@ parallel convert {} -resize 1920x1920 {.}.png ::: *.*
 
 512p 
 
-morph.py -s images/img_1.jpg -t images/img_2.jpg
+python morph.py -s images/img_1.jpg -t images/img_2.jpg
 
 1024 pixels 
 
