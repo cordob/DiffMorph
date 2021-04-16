@@ -18,7 +18,11 @@ Install proper dependencies:
 
 ```
 pip install -r requirements.txt
+
+에러 발생시 
+pip install numpy==1.19.5
 ```
+
 
 ## 이미지 일괄 싸이즈 변환하고 
 
